@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/04/27/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>蝴蝶梦</title>
+    <url>/2024/04/27/test/</url>
+    <content><![CDATA[<p>b站看到莉莉詹姆斯的电影解说，发现居然是新版蝴蝶梦，于是立刻关掉解说，打开老版蝴蝶梦。</p>
+<p>女主角的选角真好，琼·芳登完美表现了女主角的惶恐和自卑，前后对比判若两人，前半部分还想着演员的外形也会对角色有限制，格蕾丝凯莉的气质肯定没法演这种灰姑娘式的人物，但看到后半部分女主角振作精神起来后，气质也完全变了，不禁感叹琼·芳登的演技真好，这样一个简单的角色也能演绎的非常出色。</p>
+<p>琼·芳登的美貌让我一直没意识到女主角是不爱打扮的类型，直到姐姐直接点出，才发现女主角衣着发型确实一直很简单自然。<br>女主角因为Rebecca的阴影，尝试打扮自己，男主角觉得不适合她，这种情节倒是很少在影视片段中看到，影视中常常出现的片段是朴素的女主角认真打扮后惊艳别人。这里琼·芳登的局促不安也很可爱。</p>
+<p>最喜欢的片段是女主角打碎东西被发现，真的是太可爱了。不过女主角这种内耗的性格不可取，自信的人当然更有人格魅力，唯唯诺诺的女主角难能吸引人，大概多亏了琼·芳登的美貌和演技。</p>
+<p>话说回来新版莉莉詹姆斯也确实符合女主角的选角，不算大美女，但美丽活泼，平易近人，很适合演灰姑娘式的角色，而她也确实是迪士尼的“灰姑娘”。</p>
+]]></content>
+      <categories>
+        <category>movie</category>
+      </categories>
+      <tags>
+        <tag>希区柯克</tag>
+      </tags>
+  </entry>
+</search>
